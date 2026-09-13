@@ -1,0 +1,15 @@
+# Secrets — never commit real credentials.
+# secrets.h files hold real WiFi/API credentials for Arduino sketches in this repo.
+# Only the *.example templates should be committed.
+**/secrets.h
+!**/secrets.h.example
+
+# macOS Finder metadata
+.DS_Store
+
+# Arduino IDE / PlatformIO build artifacts
+*.hex
+*.elf
+*.bin
+.pio/
+build/
