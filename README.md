@@ -1,4 +1,4 @@
-# Zentouch (Simple)
+# Zentouch
 
 A gesture-controlled NeoPixel ring lamp. Wave your hand near the sensor to
 turn the lamp on/off, cycle through preset colors, or adjust brightness -
